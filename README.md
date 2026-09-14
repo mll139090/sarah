@@ -1,4 +1,4 @@
-# sarah
+
 const courses=[
  {name:"Direito Constitucional",icon:"⚖",desc:"Constituição, direitos fundamentais e organização do Estado."},
  {name:"Direito Civil",icon:"§",desc:"Pessoas, obrigações, contratos, responsabilidade e família."},
